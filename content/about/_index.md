@@ -7,7 +7,7 @@ type: page
 
 # A global directory of software developers
 
-#### Find software developers based on their stack, expertise and coding style.
+#### Find software developers based on their technology stack, expertise and coding style.
 
 ---
 
