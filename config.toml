@@ -1,0 +1,32 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "StackMuncher"
+disableKinds = ["taxonomy", "term"]
+
+[deployment]
+
+[[deployment.targets]]
+name = "s3"
+URL = "s3://stm-www-7b4g14ydlm?region=us-east-1"
+
+
+[menu]
+  [[menu.main]]
+    name = "Employers"
+    url = "/about/employers/"
+      weight = 4
+
+  [[menu.main]]
+      name = "Developers"
+      url = "/about/developers/"
+      weight = 3
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+      weight = 2
+
+  [[menu.main]]
+    name = "Directory"
+    url = "/"
+      weight = 1
