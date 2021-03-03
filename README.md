@@ -36,3 +36,31 @@ export AWS_SECRET_ACCESS_KEY=
   *  https://www.vecteezy.com/vector-art/180398-software-engineers
   *  https://www.vecteezy.com/vector-art/180387-software-engineers-vectors
   *  https://www.vecteezy.com/vector-art/107819-free-social-media-vector-illustration
+
+## Live stats
+
+There is one tiny script in *call-to-action* partial block that loads the latest stats from a JSON file stored in S3 via CloudFront. The config requires this CORS policy in S3:
+
+```json
+[
+    {
+        "AllowedHeaders": [
+            "*"
+        ],
+        "AllowedMethods": [
+            "GET",
+            "HEAD"
+        ],
+        "AllowedOrigins": [
+            "*"
+        ],
+        "ExposeHeaders": [
+            "access-control-allow-origin"
+        ]
+    }
+]
+```
+Set *Origin Request Policy* in CloudFront Behaviors tab to `Managed-CORS-S3Origin` to allow the headers through. 
+
+* https://d14nv0i5oq0azm.cloudfront.net/latest_stats.json has a single record
+* https://d14nv0i5oq0azm.cloudfront.net/combined_stats.json has the timeline and may be quite large

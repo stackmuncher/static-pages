@@ -1,0 +1,13 @@
+<script>
+  fetch('https://d14nv0i5oq0azm.cloudfront.net/latest_stats.json')
+    .then(response => response.json())
+    .then(data => {
+      [].forEach.call(document.getElementsByClassName('sw_count'), function (el) { el.innerText = nwc(data.dev[0].c); });
+      [].forEach.call(document.getElementsByClassName('otw_count'), function (el) { el.innerText = nwc(data.hireable[0].c); });
+      [].forEach.call(document.getElementsByClassName('r_count'), function (el) { el.innerText = nwc(data.repo[0].c); });
+      [].forEach.call(document.getElementsByClassName('ss_count'), function (el) { el.innerText = nwc(data.stack[0].c); });
+    });
+  function nwc(x) {
+    return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+  }
+</script>
