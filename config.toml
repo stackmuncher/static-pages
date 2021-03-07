@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "StackMuncher"
+title = "Global Directory of Software Developers"
 disableKinds = ["taxonomy", "term"]
 
 [deployment]
