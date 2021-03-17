@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 2
 icon: features/github.svg
 ---
 
