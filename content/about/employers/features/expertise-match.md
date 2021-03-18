@@ -13,4 +13,4 @@ icon: "features/expertise-match.svg"
 
 ---
 
-E.g. *min of 5y total experience, 100,000 LoC in C#, 3 collaborators*
+E.g. *min of 5y total experience, 100,000+ LoC in C#, 3 or more collaborators*

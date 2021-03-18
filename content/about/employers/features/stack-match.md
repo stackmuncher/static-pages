@@ -13,4 +13,4 @@ icon: "features/stack-match.svg"
 
 ---
 
-E.g. *C# + Twilio + DynamoDB*
+E.g. *[C# + Twilio + Azure](/?C%23%20Twilio%20azure)*

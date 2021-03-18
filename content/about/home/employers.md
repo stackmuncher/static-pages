@@ -4,7 +4,8 @@ weight: 2
 
 # For employers
 
-* ##### Find developers with the right skills and level of expertise
-* ##### Discover under-appreciated talent
+* #### Tap into the global pool of talent
+* #### Reach out to passive job seekers with the right skills and level of expertise
+* #### Search using objective metrics, not keywords in résumés
   
-[*More ...*](./employers/)
+[*Find out more ...*](./employers/)

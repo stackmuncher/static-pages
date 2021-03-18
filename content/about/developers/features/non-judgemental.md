@@ -12,4 +12,4 @@ Key metrics:
 * programming languages and frameworks
 * lines of code per language / framework
 * depth and breadth of use
-* proxies for coding style
+* coding style

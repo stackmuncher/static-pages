@@ -4,8 +4,8 @@ weight: 1
 
 # For developers
 
-* ##### Find work that matches your skills and interests
-* ##### Get insight into your skills
-* ##### Use screening questions to filter out low value offers
+* #### Your profile is updated automatically every time you run *git commit*
+* #### Your skills become searchable by employers
+* #### Work that matches your skills and interests finds you
 
-[*More ...*](./developers/)
+[*Find out how ...*](./developers/)
