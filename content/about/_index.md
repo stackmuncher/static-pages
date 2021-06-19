@@ -7,13 +7,10 @@ type: page
 
 # A global directory of software developers
 
-#### Find software developers based on their technology stack, expertise and coding style.
+#### We help our members to be discovered by employers and each other. 
 
 ---
 
-Developer profiles are updated with important metrics from their Git repositories every time they make a new code commit:
+Our profiles are based on the code we write and are updated automatically with every new Git commit.
 
-* use of computer languages and frameworks
-* use of packages and libraries
-* lines of code per technology
-* coding, commenting and documenting style 
+Anyone writing code is welcome to [join](/). Anyone looking to hire a software developer is welcome to [search](/).
