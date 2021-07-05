@@ -9,7 +9,7 @@ type: page
 
 --- 
 
-#### 1. Define your technical role or project requirements
+#### 1. Define the technical requirements for the role
 
 #### 2. Search our directory and shortlist the best matches
 
@@ -17,4 +17,4 @@ type: page
 
 ---
 
-Developers with public profiles can be contacted directly for free. We charge employers a fixed fee ($20 - $100) for reaching out to passive job seekers who prefer to remain anonymous.
+Developers with public profiles can be contacted directly for **free**. We charge employers a **fixed fee** ($20 - $100) for reaching out to passive job seekers who prefer to remain anonymous.

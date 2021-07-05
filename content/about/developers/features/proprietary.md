@@ -7,4 +7,4 @@ icon: features/proprietary.svg
 
 StackMuncher analyzes your code locally on your machine without disclosing a single line of it.
 
-The app is a [100% open-source](https://github.com/stackmuncher/stm) single-file executable written in Rust for Linux, iOS and Windows.
+The app is a [100% open-source](https://github.com/stackmuncher/stm) single-file executable written in Rust for Linux, macOS and Windows.
