@@ -5,6 +5,6 @@ icon: "features/non-judgemental.svg"
 
 ## Non-judgemental metrics
 
-We don't rank developers or define what a "good" dev is. We simply present the data about their skills and coding habits. The data comes from GitHub and some of the developers run a local client that analyzes their proprietary code without us ever seeing it.
+We don't rank developers or define what a "good" developer is. We present the data about their technology stack and expertise. You choose what metrics important to you, including availability, timezone and other profile details.
 
-You can choose the metrics important to you, including availability, timezone and other profile details.
+Developer metrics come from [our code analysis app](https://github.com/stackmuncher/stm) that looks at every commit they make and updates their profiles in real time.

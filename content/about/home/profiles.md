@@ -4,8 +4,6 @@ weight: 1
 
 # Up-to-date profiles
 
-#### Zero-effort profile updates
+Our members run [StackMuncher app](https://github/stackmuncher/stm) on their development machines. It analyzes their code and updates their profiles with a few important metrics every time they make a new commit.
 
-We run [StackMuncher app](/) on our development machines to keep our profiles updated every time we make a new commit. It analyzes our code and updates the profiles with a few important metrics.
-
-No CVs, tests or interviews - let our work speak for itself. [*More ...*](./developers/)
+No CVs, tests or interviews. Let their work speak for itself.

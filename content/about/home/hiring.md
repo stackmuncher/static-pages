@@ -4,8 +4,6 @@ weight: 3
 
 # Are you hiring?
 
-#### Let our community know
+Find the best matching candidates amongst our members. Many of them are open to new opportunities even if they are not actively looking. 
 
-Find great candidates by tech stack, skill level, interests and pay expectations. Many of us are open to new opportunities even if we are not actively looking.
-
-Don't settle for whoever replies to your job ad - find people you truly want to work with. [*More ...*](./employers/)
+Search by tech stack, skill level, interests and pay expectations.  Let their work speak for itself.

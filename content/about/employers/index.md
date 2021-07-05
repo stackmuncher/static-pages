@@ -5,13 +5,16 @@ layout: segment
 type: page
 ---
 
-# Find software developers with the right skills and capabilities
+# Find software developers with the right skills and expertise
 
-#### We put developer skills, coding style and learning rate ahead of their ability to write a sleek resume.
+--- 
+
+#### 1. Define your technical role or project requirements
+
+#### 2. Search our directory and shortlist the best matches
+
+#### 3. We will tell them that you are interested in their skills and how to apply
 
 ---
 
-Unlike resumes with unreliable self-assessments, StackMuncher directory is based on the analysis of the actual code written by the developers. 
-Our open-source app checks every line of their code to extract useful metrics you can search for.
-
-Shortlist the developers you think are a good match and we'll send them a link to your job ad or you can approach them directly.
+Developers with public profiles can be contacted directly for free. We charge employers a fixed fee ($20 - $100) for reaching out to passive job seekers who prefer to remain anonymous.

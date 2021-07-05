@@ -1,9 +1,7 @@
 ---
-weight: 7
+weight: 9
 ---
 
-## Pricing
+## Need help searching?
 
-Our current beta version of the [Directory](/) is free for everyone. We may introduce a small charge for sending private messages to developers who prefer not to publish their contact details some time later.
-
-Contacting developers who made their contact details public will remain free.
+It may be difficult to translate a generic job description into detailed skill requirements with the right set of benefits to attract the best candidates. Get in touch with us on info@stackmuncher.com and we'll try to work it out together.
