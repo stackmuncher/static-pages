@@ -4,6 +4,6 @@ weight: 1
 
 # Up-to-date profiles
 
-Our members run [StackMuncher app](https://github/stackmuncher/stm) on their development machines. It analyzes their code and updates their profiles with a few important metrics every time they make a new commit.
+##### Our members run a [code analysis app](https://github/stackmuncher/stm) on their development machines.
 
-No CVs, tests or interviews. Let their work speak for itself.
+##### The app updates their profiles with a few important metrics every time they make a new commit keeping them always up to date.

@@ -7,7 +7,7 @@ type: page
 
 # A global directory of software developers
 
-#### We help our members to be discovered by employers and each other
+#### We help our members be discovered by employers and each other.
 
 ---
 

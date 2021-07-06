@@ -2,8 +2,8 @@
 weight: 2
 ---
 
-# Member privacy
+# Developer privacy
 
-Some members have public profiles for employers to contact them directly while others remain anonymous and can be contacted only for work that matches their skills and expectations. 
+##### Developers with public profiles can be contacted by employers directly.
 
-No photos, age or gender details. Let their work speak for itself.
+##### Some developers prefer to remain anonymous and can be contacted only for work that matches their select criteria.

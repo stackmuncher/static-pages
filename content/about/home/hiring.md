@@ -4,6 +4,6 @@ weight: 3
 
 # Are you hiring?
 
-Find the best matching candidates amongst our members. Many of them are open to new opportunities even if they are not actively looking. 
+##### Search our directory by tech stack, skill level, interests and pay expectations.
 
-Search by tech stack, skill level, interests and pay expectations.  Let their work speak for itself.
+##### We'll help you reach developers open to new opportunities even if they are not actively looking.
