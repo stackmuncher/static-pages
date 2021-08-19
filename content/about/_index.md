@@ -5,7 +5,7 @@ layout: about
 type: page
 ---
 
-# A global directory of software developers
+# An open directory of software developers
 
 #### We help our members be discovered by employers and each other.
 
