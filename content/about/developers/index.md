@@ -8,7 +8,7 @@ type: page
 # Let interesting and well-paid work find you
 
 ---
-#### 1. Run StackMuncher app to build your profile from your past and current projects
+#### 1. Run [StackMuncher app](https://github.com/stackmuncher/stm_app) to build your profile from your current and past projects
 #### 2. Set your preferences for the type of work and the employer
 #### 3. Respond to any interesting offers of work
 ---
