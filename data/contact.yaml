@@ -1,3 +1,9 @@
 email: 'info@stackmuncher.com'
 phone: '1800 123 000'
 contact_button_link: 'mailto:info@stackmuncher.com?subject=Access%20request&body=Please,%20add%20me%20using%20my%20email%20address.'
+cta_dev:
+  text: 'CREATE DEVELOPER PROFILE'
+  link: 'https://github.com/stackmuncher/stm_app#software-developer-profile-builder'
+cta_employer:
+  text: 'REQUEST ADVANCED SEARCH ACCESS'
+  link: 'mailto:info@stackmuncher.com?subject=Access%20request&body=Please,%20add%20me%20using%20my%20email%20address.'

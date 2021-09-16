@@ -12,7 +12,7 @@
     </div>
   </div>
 
-  {{ partial "call-to-action.html" (dict "site" .Site "context" .) }}
+  {{ partial "call-to-action.html" (dict "cta_link" .Site.Data.contact.cta_dev.link "cta_text" .Site.Data.contact.cta_dev.text "context" .) }}
 
 </div>
 

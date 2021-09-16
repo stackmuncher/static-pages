@@ -8,7 +8,11 @@
       <img alt="{{ .Title }}" class="w-100" src="{{ .Params.intro_image | relURL }}" />
     </div>
   </div>
-  {{ partial "call-to-action.html" (dict "site" .Site "context" .) }}
+  {{ if isset .Params "cta"}}
+  {{ partial "call-to-action.html" (dict "cta_link" .Site.Data.contact.cta_dev.link "cta_text" .Site.Data.contact.cta_dev.text "context" .) }}
+  {{ else }}
+  {{ partial "call-to-action.html" (dict "cta_link" .Site.Data.contact.cta_employer.link "cta_text" .Site.Data.contact.cta_employer.text "context" .) }}
+  {{ end }}
 </div>
 
 <div class="my-4 my-md-4">&nbsp;</div>
