@@ -8,5 +8,10 @@
         "name": "LinkedIn",
         "link": "https://www.linkedin.com/in/maxvoskob/",
         "image": "/about/images/social/linkedin.svg"
+    },
+    {
+        "name": "Creative Commons License",
+        "link": "http://creativecommons.org/licenses/by/4.0/",
+        "image": "/about/images/social/cc-by.svg"
     }
 ]
