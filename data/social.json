@@ -1,16 +1,21 @@
 [
     {
-        "name": "Github",
+        "name": "StackMuncher code on GitHub",
         "link": "https://github.com/stackmuncher",
         "image": "/about/images/social/github.svg"
     },
     {
-        "name": "LinkedIn",
+        "name": "LinkedIn of the founder",
         "link": "https://www.linkedin.com/in/maxvoskob/",
         "image": "/about/images/social/linkedin.svg"
     },
     {
-        "name": "Creative Commons License",
+        "name": "StackMuncher status page",
+        "link": "/_stats",
+        "image": "/about/images/social/heartbeat.svg"
+    },
+    {
+        "name": "All site content is licensed under Creative Commons License",
         "link": "http://creativecommons.org/licenses/by/4.0/",
         "image": "/about/images/social/cc-by.svg"
     }
