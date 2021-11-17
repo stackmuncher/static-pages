@@ -1,6 +1,11 @@
 ---
 title: 'How to donate a GitHub token to an Open Source project'
-intro_image: "/about/images/illustrations/employers.svg"
+date: "2021-11-17"
+categories: [ "how-to" ]
+tags: [
+    "github",
+    "contribute"
+]
 ---
 
 Access to [GitHub API](https://docs.github.com/en/rest) has limits on how many requests GitHub accepts from a given service. Adding tokens donated by GitHub members helps open source projects like [stackmuncher.com](https://stackmuncher.com) process more data faster.
