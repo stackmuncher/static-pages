@@ -26,8 +26,7 @@ export AWS_SECRET_ACCESS_KEY=
 ## Shortcuts
 
 * `hugo server -v --disableFastRender`
-* `hugo --cleanDestinationDir`
-* `hugo deploy -v`
+* `hugo --cleanDestinationDir && hugo deploy -v`
 
 ## Attribution
 
