@@ -12,3 +12,9 @@ Disallow: /
 
 User-agent: Yandex
 Disallow: /
+
+User-agent: bingbot
+Disallow: /
+
+User-agent: msnbot
+Disallow: /
